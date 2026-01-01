@@ -1,0 +1,8 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Anaconda project database files
+anaconda_projects/db/*.db
+**/anaconda_projects/db/*.db
+
